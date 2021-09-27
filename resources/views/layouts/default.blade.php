@@ -38,7 +38,7 @@
         
     </div>
 
-    <p>- {{$name}} -</p>
+    
 </div>
 
 <div class="footer">
